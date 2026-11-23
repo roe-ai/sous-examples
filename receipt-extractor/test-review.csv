@@ -1,0 +1,11 @@
+id,field,verdict,note
+X51006619842,date,follows_receipt,The receipt prints "3 JUN 2016". The label pads the day to 03.
+X51006414532,company,follows_receipt,"The receipt prints THE GEOVENTURE (FREEDOM OPTIMUM SDN BHD). The label keeps only the name in parentheses."
+X510056849111,total,real,"The receipt prints TOTAL RM7.42, then ROUNDING -0.02 and RM7.40 beside CASH. The label is RM7.42. The model returned RM7.40."
+X51006913060,address,follows_receipt,"The receipt prints 12, Jalan Tampoi. The label says 2."
+X51008042787,address,follows_receipt,"The receipt prints JIN AMPANG and AMAPNG. The model kept JIN and corrected AMAPNG to AMPANG. The label says JLN and AMAPNG."
+X51005745213,address,spelling,"The receipt and the label say PINGGLRAN and SUNGAL. The model corrected them to PINGGIRAN and SUNGAI."
+X51005741929,address,spelling,"The receipt and the label say SHAH ALA. The model completed it to SHAH ALAM."
+X51005749904,address,follows_receipt,The receipt prints SHAH ALAM. The label says SHAN ALAM.
+X51005675914,address,follows_receipt,The receipt prints KUALA LUMPER. The label says KUALA LUMPUR.
+X51005663300,address,follows_receipt,The receipt prints KUATA LUMPUR. The label says KUALA LUMPUR.
