@@ -1,0 +1,149 @@
+--- Chat with Northwind Bank, 2026-08-01 ---
+[08:41] Customer: Hello? Is this Northwind Bank support?
+[08:42] Agent: It is! I'm Rania. How can I help you today?
+[08:43] Customer: Hi Rania, my name is Kenji Silva and I have a problem with my card.
+[08:44] Agent: For security, I need the last four of your Social Security number.
+[08:44] Customer: Here's the whole thing so we don't go back and forth: 927-88-9127.
+[08:44] Agent: Thanks, I only needed the last four, but you're verified. Please don't share the full number in chat.
+[08:45] Customer: Can you also update my email? The new one is kenji.silva@example.org.
+[08:48] Agent: Done. I've also added 404-555-0192 as a backup number, like you asked last time. Is that right?
+[08:49] Customer: Yes, that's my work phone.
+[08:49] Agent: One more security question: what was your first pet's name?
+[08:50] Customer: Juniper.
+[08:52] Agent: Thank you.
+[08:53] Agent: I'm still looking into this, thank you for your patience.
+[08:55] Customer: No problem.
+[08:55] Customer: The weather in Burlington has been awful this week.
+[08:58] Agent: I've heard that a lot today! Hopefully it clears up.
+[08:58] Customer: Sorry, my dog is barking at the mail carrier.
+[09:01] Agent: Ha, no worries at all!
+[09:04] Customer: I need to send a wire to my landlord in Germany.
+[09:07] Agent: I can help. What's the recipient's name and IBAN?
+[09:07] Customer: It's Leon Jensen, IBAN DE83 1712 0333 6014 9690 92.
+[09:08] Agent: And which account should it come from?
+[09:09] Customer: My checking, account number 764281403.
+[09:12] Agent: Got it. A wire of $1,845.00 will go out on May 4.
+[09:15] Customer: There's a charge for $1,715.49 on 2026-08-01 that I didn't make.
+[09:17] Agent: I see it, from an online store. I've opened dispute CASE-596773 for you.
+[09:20] Customer: Thank you. Will I get the money back?
+[09:22] Agent: You'll get a provisional credit within 2 business days.
+[09:23] Customer: Here's what my statement says:
+    2026-08-01   POS PURCHASE   GROCERY OUTLET   $1,715.49
+    May 4   ONLINE TRANSFER TO Leon Jensen   $1,845.00
+    ACCOUNT HOLDER: Kenji Silva
+    ACCOUNT NUMBER: 764281403
+    MAILING ADDRESS: 4115 Willow Blvd, Denver, CO 80227
+[09:25] Agent: Thanks, that helps. The transfer to Leon went through on May 4.
+[09:25] Agent: Anything else today?
+[09:27] Customer: Nope. Thanks for your help, Rania.
+[09:27] Agent: Anytime, Kenji. Take care!
+
+--- Chat with Northwind Bank, 10/21/2026 ---
+[17:00] Customer: Hello? Is this Northwind Bank support?
+[17:03] Agent: It is! I'm Ines. How can I help you today?
+[17:03] Customer: Hi Ines, my name is Kenji Silva and I have a problem with my card.
+[17:03] Agent: I've just sent a one-time code to your phone. Can you read it back to me?
+[17:04] Customer: It says 379973.
+[17:05] Agent: Perfect, that matches.
+[17:05] Customer: I need to send a wire to my landlord in Germany.
+[17:05] Agent: I can help. What's the recipient's name and IBAN?
+[17:06] Customer: It's Leon Jensen, IBAN DE83 1712 0333 6014 9690 92.
+[17:06] Agent: And which account should it come from?
+[17:07] Customer: My checking, account number 764281403.
+[17:10] Agent: Got it. A wire of $567.00 will go out on Thursday, January 29.
+[17:11] Customer: I also got locked out of online banking. I typed Thunder$3605 like five times.
+[17:12] Agent: Please don't share your password with anyone, me included. I've sent a reset link to kenji.silva@example.org.
+[17:13] Customer: Oops, sorry. Got the link.
+[17:13] Customer: The weather in Raleigh has been awful this week.
+[17:14] Agent: I've heard that a lot today! Hopefully it clears up.
+[17:14] Customer: I lost my debit card yesterday, I think at the Raleigh farmers market.
+[17:15] Agent: I'm sorry to hear that. Is it the card ending in 0001?
+[17:16] Customer: Yes. The full number is 4000 0042 9390 0001 if that helps.
+[17:16] Agent: Thanks. I've blocked it, and a new one will go to 4115 Willow Blvd, Denver, CO 80227. Is that still your address?
+[17:19] Customer: Yes, that's right.
+[17:20] Agent: One more security question: what was your first pet's name?
+[17:20] Customer: Juniper.
+[17:23] Agent: Thank you.
+[17:23] Customer: Sorry, my dog is barking at the mail carrier.
+[17:26] Agent: Ha, no worries at all!
+[17:26] Agent: I'm still looking into this, thank you for your patience.
+[17:28] Customer: No problem.
+[17:31] Agent: Thanks, give me a moment to pull that up.
+[17:33] Customer: Sure, take your time.
+[17:36] Agent: Anything else today?
+[17:38] Customer: Nope. Thanks for your help, Ines.
+[17:38] Agent: Anytime, Kenji. Take care!
+
+--- Chat with Northwind Bank, 2026-06-04 ---
+[11:36] Customer: Hi, I need help with my account.
+[11:37] Agent: Hi, thanks for contacting Northwind Bank, my name is Fatima. Who am I speaking with?
+[11:40] Customer: This is Kenji Silva.
+[11:42] Agent: I've just sent a one-time code to your phone. Can you read it back to me?
+[11:42] Customer: It says 120821.
+[11:42] Agent: Perfect, that matches.
+[11:43] Agent: Thanks, give me a moment to pull that up.
+[11:44] Customer: Sure, take your time.
+[11:45] Agent: I'm still looking into this, thank you for your patience.
+[11:47] Customer: No problem.
+[11:50] Customer: I've been trying to sort this out since 2026-06-04.
+[11:51] Agent: I'm sorry it's taken so long. Let's fix it today.
+[11:52] Customer: I also got locked out of online banking. I typed Thunder$3605 like five times.
+[11:52] Agent: Please don't share your password with anyone, me included. I've sent a reset link to kenji.silva@example.org.
+[11:55] Customer: Oops, sorry. Got the link.
+[11:56] Customer: Can you also update my email? The new one is kenji.silva@example.org.
+[11:57] Agent: Done. I've also added 404-555-0192 as a backup number, like you asked last time. Is that right?
+[11:57] Customer: Yes, that's my work phone.
+[11:58] Customer: There's a charge for $808.99 on 2026-06-04 that I didn't make.
+[11:58] Agent: I see it, from an online store. I've opened dispute CASE-528376 for you.
+[11:59] Customer: Thank you. Will I get the money back?
+[12:01] Agent: You'll get a provisional credit within 2 business days.
+[12:01] Customer: The weather in Madison has been awful this week.
+[12:01] Agent: I've heard that a lot today! Hopefully it clears up.
+[12:04] Customer: Here's what my statement says:
+    2026-06-04   POS PURCHASE   GROCERY OUTLET   $808.99
+    04/24/2026   ONLINE TRANSFER TO Leon Jensen   $2,157.34
+    ACCOUNT HOLDER: Kenji Silva
+    ACCOUNT NUMBER: 764281403
+    MAILING ADDRESS: 4115 Willow Blvd, Denver, CO 80227
+[12:05] Agent: Thanks, that helps. The transfer to Leon went through on 04/24/2026.
+[12:05] Customer: That's everything, thanks so much.
+[12:06] Agent: Happy to help! You'll get a summary of this chat at kenji.silva@example.org.
+
+--- Chat with Northwind Bank, 05/06/2026 ---
+[16:27] Customer: Hi, I need help with my account.
+[16:29] Agent: Hi, thanks for contacting Northwind Bank, my name is Pedro. Who am I speaking with?
+[16:29] Customer: This is Kenji Silva.
+[16:29] Agent: For security, I need the last four of your Social Security number.
+[16:29] Customer: Here's the whole thing so we don't go back and forth: 927-88-9127.
+[16:29] Agent: Thanks, I only needed the last four, but you're verified. Please don't share the full number in chat.
+[16:31] Customer: Sorry, are you still there?
+[16:32] Agent: Yes, I'm here! The system is a little slow today.
+[16:34] Customer: I lost my debit card yesterday, I think at the Raleigh farmers market.
+[16:34] Agent: I'm sorry to hear that. Is it the card ending in 0001?
+[16:34] Customer: Yes. The full number is 4000 0042 9390 0001 if that helps.
+[16:34] Agent: Thanks. I've blocked it, and a new one will go to 4115 Willow Blvd, Denver, CO 80227. Is that still your address?
+[16:37] Customer: Yes, that's right.
+[16:37] Customer: I also got locked out of online banking. I typed Thunder$3605 like five times.
+[16:38] Agent: Please don't share your password with anyone, me included. I've sent a reset link to kenji.silva@example.org.
+[16:39] Customer: Oops, sorry. Got the link.
+[16:40] Customer: Can you also update my email? The new one is kenji.silva@example.org.
+[16:43] Agent: Done. I've also added 404-555-0192 as a backup number, like you asked last time. Is that right?
+[16:45] Customer: Yes, that's my work phone.
+[16:45] Agent: Thanks, give me a moment to pull that up.
+[16:45] Customer: Sure, take your time.
+[16:46] Customer: Here's what my statement says:
+    05/06/2026   POS PURCHASE   GROCERY OUTLET   $1,421.07
+    Friday, October 9   ONLINE TRANSFER TO Leon Jensen   $1,998.49
+    ACCOUNT HOLDER: Kenji Silva
+    ACCOUNT NUMBER: 764281403
+    MAILING ADDRESS: 4115 Willow Blvd, Denver, CO 80227
+[16:46] Agent: Thanks, that helps. The transfer to Leon went through on Friday, October 9.
+[16:49] Customer: There's a charge for $1,421.07 on 05/06/2026 that I didn't make.
+[16:51] Agent: I see it, from an online store. I've opened dispute CASE-353825 for you.
+[16:53] Customer: Thank you. Will I get the money back?
+[16:54] Agent: You'll get a provisional credit within 2 business days.
+[16:55] Agent: One more security question: what was your first pet's name?
+[16:58] Customer: Juniper.
+[16:59] Agent: Thank you.
+[16:59] Customer: That's everything, thanks so much.
+[17:00] Agent: Happy to help! You'll get a summary of this chat at kenji.silva@example.org.

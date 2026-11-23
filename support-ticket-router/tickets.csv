@@ -1,0 +1,1525 @@
+id,subject,body,plan,channel
+T-10432,Reminder emails sent to paid clients,"Hi,
+
+Late-payment reminders went to 28 clients who already paid. Embarrassing, please fix. My colleague Elena saw the same thing.
+
+Thanks!
+
+Aiko",Starter,email
+T-10433,Better reports,"Could the reports page show revenue by client over time? Right now it's only monthly totals.
+
+Please advise.
+
+Jonah",Starter,email
+T-10434,Add a teammate,How do I invite our new bookkeeper to the account with view-only access?,Growth,email
+T-10435,Invoice from Ledgerly is wrong,"Hi Ledgerly support, Our receipt says $29.99 but our plan should be $299.50. Which is right? My colleague Tomás saw the same thing. Regards, Priya",Growth,chat
+T-10436,Two-factor codes not arriving,"I'm not receiving the 2FA text message, so I'm locked out. We've been customers for 15 months.
+
+Regards,
+
+Elena",Free,chat
+T-10437,Card declined but money taken,"To whom it may concern, The app said my card was declined, but my bank shows a pending charge of $49.50. Please advise. Aiko",Growth,chat
+T-10438,Switch to annual billing,"Hi,
+
+How do we move from monthly to annual billing, and do we get the discount pro-rated? This is urgent for us, our month-end close is the 15th.
+
+Thanks!
+
+Tomás",Enterprise,chat
+T-10439,Invoice from Ledgerly is wrong,"To whom it may concern,
+
+Our receipt says $29 but our plan should be $9. Which is right?
+
+Appreciate the help.
+
+Tomás",Enterprise,web form
+T-10440,Compliment,"Hey there, Just wanted to say the new dashboard is great. Our team loves it.",Enterprise,phone transcript
+T-10441,Better reports,Could the reports page show revenue by client over time? Right now it's only monthly totals.,Free,phone transcript
+T-10442,Refund request,"Hey there,
+
+We downgraded last week but were still charged $29.99 for the old plan. Please refund the difference.
+
+Appreciate the help.
+
+Elena",Growth,phone transcript
+T-10443,Reminder emails sent to paid clients,"Late-payment reminders went to 18 clients who already paid. Embarrassing, please fix.",Free,email
+T-10444,Reminder emails sent to paid clients,"Hello team,
+
+Late-payment reminders went to 9 clients who already paid. Embarrassing, please fix.
+
+Cheers,
+
+Lena",Starter,web form
+T-10445,Bulk edit invoices,"To whom it may concern, Being able to bulk edit due dates on 34 invoices at once would save us hours.",Starter,chat
+T-10446,PDF export broken,"Hey there,
+
+Exporting an invoice to PDF gives a spinner that never stops in the Android app. Started the 15th.
+
+Thanks!
+
+Aiko",Growth,web form
+T-10447,Possible data breach,"Hi, One of our clients received an invoice email with another customer's bank details on it. We've been customers for 3 months. Cheers, Grace",Growth,email
+T-10448,Job application,"Hey there, Are you hiring support staff? I'd love to work at Ledgerly.",Enterprise,email
+T-10449,Better reports,"Good morning,
+
+Could the reports page show revenue by client over time? Right now it's only monthly totals. We're on the Free plan if that matters.
+
+Please advise.
+
+Elena",Free,phone transcript
+T-10450,Can't upload logo,"Hi Ledgerly support,
+
+Uploading our logo in settings shows 500. PNG, 200 KB. We're on the Free plan if that matters.
+
+Cheers,
+
+Jonah",Free,email
+T-10451,Question about data residency,Where is our data stored? We need it to stay in the EU for compliance. My colleague Lena saw the same thing. Please advise. Sam,Free,web form
+T-10452,Sync error with QuickBooks,"To whom it may concern,
+
+The QuickBooks sync fails with ERR_SYNC_17 for 32 invoices. Nothing has changed on our side.
+
+Regards,
+
+Elena",Starter,email
+T-10453,Switch to annual billing,"Hi Ledgerly support, How do we move from monthly to annual billing, and do we get the discount pro-rated? Cheers, Priya",Free,phone transcript
+T-10454,Possible data breach,"Hi,
+
+One of our clients received an invoice email with another customer's bank details on it. This is urgent for us, our month-end close is last Friday.
+
+Regards,
+
+Grace",Free,web form
+T-10455,Charged twice this month,"Good morning,
+
+I was billed $49.99 twice on the 3rd. Can you refund the duplicate charge?
+
+Regards,
+
+Priya",Free,web form
+T-10456,Change company email,We rebranded. How do I change the login email for everyone on our team? I already tried clearing the cache. Thanks in advance. Priya,Growth,email
+T-10457,Entire app is down,"Hi Ledgerly support,
+
+Nobody on our team can load Ledgerly. We get a blank white page everywhere. We have invoices due today. I already tried clearing the cache.
+
+Thanks in advance.
+
+Omar",Starter,phone transcript
+T-10458,Update payment method,"Hello team, Our company card expires next month. Where do I add the new card before the next charge? Please advise. Sam",Free,phone transcript
+T-10459,Two-factor codes not arriving,"Hey there, I'm not receiving the 2FA text message, so I'm locked out. This is urgent for us, our month-end close is Monday. Thanks! Diego",Starter,chat
+T-10460,Merge two accounts,"Good morning,
+
+We accidentally created two Ledgerly accounts. Can they be merged? I already tried clearing the cache.
+
+Cheers,
+
+Marcus",Free,chat
+T-10461,Please add Xero integration,"We use Xero, not QuickBooks. Any plans to support it? This is urgent for us, our month-end close is last Friday.",Starter,email
+T-10462,Bulk edit invoices,"Being able to bulk edit due dates on 25 invoices at once would save us hours. Cheers, Fatima",Enterprise,chat
+T-10463,Cancel subscription,"Hello team,
+
+Please cancel our subscription at the end of this billing period. We won't be renewing. My colleague Omar saw the same thing.",Starter,chat
+T-10464,Sync error with QuickBooks,"Hi Ledgerly support,
+
+The QuickBooks sync fails with 'Something went wrong' for 31 invoices. Nothing has changed on our side.
+
+Appreciate the help.
+
+Grace",Free,phone transcript
+T-10465,Currency symbol wrong,"Hey there, Invoices in EUR show a $ sign since the update the 15th. Please advise. Grace",Enterprise,chat
+T-10466,Refund request,"Hi Ledgerly support,
+
+We downgraded last week but were still charged $49 for the old plan. Please refund the difference.
+
+Thanks in advance.
+
+Jonah",Free,chat
+T-10467,More languages for invoices,Our clients are in Germany and Japan. Can invoices be generated in other languages? Thanks in advance. Sam,Growth,email
+T-10468,App crashes on open,"the Android app crashes as soon as I open the dashboard. Reinstalled twice, same result. This is urgent for us, our month-end close is last Friday.
+
+Appreciate the help.
+
+Lena",Growth,chat
+T-10469,Can't log in,"Hello team,
+
+I reset my password but the login page keeps saying my credentials are invalid.
+
+Appreciate the help.
+
+Diego",Enterprise,chat
+T-10470,Charged twice this month,"Hi Ledgerly support, I was billed $299 twice on the 3rd. Can you refund the duplicate charge? Thanks in advance. Priya",Free,email
+T-10471,PDF export broken,"Good morning, Exporting an invoice to PDF gives a blank white page in the Android app. Started Tuesday. Appreciate the help. Omar",Growth,phone transcript
+T-10472,PDF export broken,"Exporting an invoice to PDF gives ERR_SYNC_17 in the iOS app. Started Monday. This is urgent for us, our month-end close is the 3rd.
+
+Appreciate the help.
+
+Marcus",Free,email
+T-10473,Interview request,"Hello team,
+
+I'm writing an article about invoicing tools for small businesses. Could someone from your team chat?
+
+Thanks in advance.
+
+Priya",Growth,email
+T-10474,Please add Xero integration,"Good morning, We use Xero, not QuickBooks. Any plans to support it? Thanks in advance. Elena",Starter,email
+T-10475,Client portal shows wrong invoices,"One of our clients says the client portal shows another company's invoices. Screenshot attached.
+
+Thanks!
+
+Lena",Free,phone transcript
+T-10476,Custom fields on invoices,"To whom it may concern, We need a custom field for PO numbers on every invoice. Is that on the roadmap? Regards, Diego",Growth,email
+T-10477,Need a VAT invoice,Our accountant needs a VAT-compliant invoice for the $99.99 we paid yesterday. Our company is Okafor & Sons. Thanks in advance. Jonah,Free,email
+T-10478,Change company email,We rebranded. How do I change the login email for everyone on our team? Please advise. Fatima,Enterprise,chat
+T-10479,Partnership inquiry,I run an accounting firm with 24 clients. Do you have a partner or reseller program? Please advise. Tomás,Growth,email
+T-10480,Change company email,"Hi, We rebranded. How do I change the login email for everyone on our team? I already tried clearing the cache. Cheers, Tomás",Growth,phone transcript
+T-10481,App crashes on open,"Edge crashes as soon as I open the dashboard. Reinstalled twice, same result. Appreciate the help. Jonah",Starter,chat
+T-10482,Feature idea: partial payments,"Hi,
+
+It would help a lot if clients could pay invoices in installments. My colleague Omar saw the same thing.
+
+Thanks in advance.
+
+Jonah",Growth,chat
+T-10483,Two-factor codes not arriving,"Hey there,
+
+I'm not receiving the 2FA text message, so I'm locked out.",Starter,chat
+T-10484,Invoice from Ledgerly is wrong,"Our receipt says $49.50 but our plan should be $299.50. Which is right?
+
+Thanks!
+
+Aiko",Enterprise,web form
+T-10485,Charged twice this month,"I was billed $9.99 twice on Tuesday. Can you refund the duplicate charge?
+
+Appreciate the help.
+
+Grace",Free,chat
+T-10486,Partnership inquiry,"Hi,
+
+I run an accounting firm with 22 clients. Do you have a partner or reseller program?
+
+Cheers,
+
+Diego",Enterprise,chat
+T-10487,Can't upload logo,"Hello team, Uploading our logo in settings shows 504. PNG, 200 KB. We're on the Enterprise plan if that matters. Thanks! Aiko",Enterprise,email
+T-10488,Sync error with QuickBooks,"To whom it may concern, The QuickBooks sync fails with ERR_SYNC_17 for 25 invoices. Nothing has changed on our side.",Growth,web form
+T-10489,Do you offer nonprofit pricing?,"Good morning, We're a registered nonprofit. Is there a discount? This is urgent for us, our month-end close is Monday.",Free,email
+T-10490,Delete my data,"Hello team, We're closing Blue Fern Yoga. Please delete our account and all of our data. We're on the Enterprise plan if that matters.",Enterprise,email
+T-10491,Update payment method,"Hi Ledgerly support,
+
+Our company card expires next month. Where do I add the new card before the next charge? We're on the Starter plan if that matters.
+
+Cheers,
+
+Diego",Starter,web form
+T-10492,Phishing email pretending to be you,"Hi,
+
+Our clients are getting emails that look like Ledgerly invoices asking for card details. They're fake.
+
+Please advise.
+
+Diego",Free,chat
+T-10493,PDF export broken,"To whom it may concern,
+
+Exporting an invoice to PDF gives 504 in Chrome. Started this morning.
+
+Appreciate the help.
+
+Jonah",Starter,phone transcript
+T-10494,Better reports,"Hey there, Could the reports page show revenue by client over time? Right now it's only monthly totals. My colleague Tomás saw the same thing. Cheers, Sam",Starter,chat
+T-10495,Payments not going through for anyone,None of our clients can pay invoices since Tuesday. The pay button gives 500.,Free,chat
+T-10496,Card declined but money taken,"Hi Ledgerly support, The app said my card was declined, but my bank shows a pending charge of $299. Thanks! Jonah",Starter,web form
+T-10497,Please add Xero integration,"Hello team, We use Xero, not QuickBooks. Any plans to support it? Cheers, Lena",Enterprise,email
+T-10498,Card declined but money taken,"Hi, The app said my card was declined, but my bank shows a pending charge of $1,200. We're on the Starter plan if that matters. Please advise. Tomás",Starter,phone transcript
+T-10499,Entire app is down,"Nobody on our team can load Ledgerly. We get a spinner that never stops everywhere. We have invoices due today. Regards, Tomás",Free,email
+T-10500,Cancel subscription,"To whom it may concern,
+
+Please cancel our subscription at the end of this billing period. We won't be renewing.
+
+Appreciate the help.
+
+Priya",Enterprise,chat
+T-10501,App crashes on open,"Firefox crashes as soon as I open the dashboard. Reinstalled twice, same result.",Starter,phone transcript
+T-10502,Someone else logged into our account,"We got a login alert from a country we've never been to, and 20 invoices were changed. Is our account hacked? We're on the Enterprise plan if that matters. Thanks in advance. Omar",Enterprise,phone transcript
+T-10503,Reminder emails sent to paid clients,"Hello team,
+
+Late-payment reminders went to 19 clients who already paid. Embarrassing, please fix.
+
+Thanks!
+
+Fatima",Starter,web form
+T-10504,Cancel subscription,"To whom it may concern, Please cancel our subscription at the end of this billing period. We won't be renewing. Cheers, Sam",Enterprise,phone transcript
+T-10505,API webhook for paid invoices,"To whom it may concern, We'd love a webhook when an invoice is paid so we can update our CRM. Cheers, Fatima",Enterprise,email
+T-10506,Switch to annual billing,"Hello team, How do we move from monthly to annual billing, and do we get the discount pro-rated? This is urgent for us, our month-end close is yesterday. Please advise. Omar",Growth,chat
+T-10507,Please add Xero integration,"Hey there, We use Xero, not QuickBooks. Any plans to support it? Thanks in advance. Priya",Enterprise,email
+T-10508,Reminder emails sent to paid clients,"Hi, Late-payment reminders went to 16 clients who already paid. Embarrassing, please fix. Thanks! Elena",Enterprise,chat
+T-10509,Currency symbol wrong,"Hi,
+
+Invoices in EUR show a $ sign since the update this morning.
+
+Please advise.
+
+Sam",Enterprise,web form
+T-10510,PDF export broken,"Good morning, Exporting an invoice to PDF gives 504 in Firefox. Started the 15th. Appreciate the help. Jonah",Enterprise,chat
+T-10511,Job application,"Good morning,
+
+Are you hiring support staff? I'd love to work at Ledgerly.",Starter,email
+T-10512,Unexpected seat charges,"Good morning,
+
+We were charged for 20 seats but only 20 people use Ledgerly. Can you look into it?
+
+Thanks in advance.
+
+Jonah",Growth,email
+T-10513,Card declined but money taken,"Hi Ledgerly support,
+
+The app said my card was declined, but my bank shows a pending charge of $29.99.
+
+Appreciate the help.
+
+Grace",Free,email
+T-10514,Do you offer nonprofit pricing?,"Hello team,
+
+We're a registered nonprofit. Is there a discount?
+
+Thanks!
+
+Fatima",Free,web form
+T-10515,Need a VAT invoice,"Good morning,
+
+Our accountant needs a VAT-compliant invoice for the $149.99 we paid Tuesday. Our company is Harbor Bakery.
+
+Thanks in advance.
+
+Grace",Starter,chat
+T-10516,Can't upload logo,"Uploading our logo in settings shows a spinner that never stops. PNG, 200 KB.
+
+Please advise.
+
+Priya",Free,web form
+T-10517,PDF export broken,"Hi, Exporting an invoice to PDF gives a spinner that never stops in Chrome. Started Tuesday. Regards, Sam",Free,web form
+T-10518,Recurring invoices didn't send,"Good morning,
+
+None of our recurring invoices went out last Friday. Clients are asking where they are.
+
+Appreciate the help.
+
+Aiko",Starter,web form
+T-10519,Custom fields on invoices,"Hi Ledgerly support,
+
+We need a custom field for PO numbers on every invoice. Is that on the roadmap?
+
+Thanks in advance.
+
+Priya",Free,chat
+T-10520,Interview request,"Good morning,
+
+I'm writing an article about invoicing tools for small businesses. Could someone from your team chat?
+
+Thanks!
+
+Lena",Starter,chat
+T-10521,Can't upload logo,"Hi, Uploading our logo in settings shows a spinner that never stops. PNG, 200 KB. Please advise. Diego",Growth,chat
+T-10522,Better reports,"Hi Ledgerly support,
+
+Could the reports page show revenue by client over time? Right now it's only monthly totals.",Growth,email
+T-10523,Client portal shows wrong invoices,"Hi, One of our clients says the client portal shows another company's invoices. Screenshot attached. Thanks! Sam",Free,web form
+T-10524,Merge two accounts,We accidentally created two Ledgerly accounts. Can they be merged? We've been customers for 11 months. Thanks! Grace,Free,email
+T-10525,Can't log in,"Hey there,
+
+I reset my password but the login page keeps saying my credentials are invalid.",Free,web form
+T-10526,Currency symbol wrong,"Invoices in EUR show a $ sign since the update Monday.
+
+Thanks in advance.
+
+Sam",Growth,web form
+T-10527,Merge two accounts,"Hey there,
+
+We accidentally created two Ledgerly accounts. Can they be merged?
+
+Appreciate the help.
+
+Jonah",Starter,phone transcript
+T-10528,Sync error with QuickBooks,"Hello team,
+
+The QuickBooks sync fails with ERR_SYNC_17 for 7 invoices. Nothing has changed on our side.
+
+Thanks in advance.
+
+Sam",Growth,chat
+T-10529,Feature idea: partial payments,"Hi Ledgerly support, It would help a lot if clients could pay invoices in installments. We've been customers for 3 months. Thanks! Sam",Starter,phone transcript
+T-10530,Entire app is down,"To whom it may concern,
+
+Nobody on our team can load Ledgerly. We get ERR_SYNC_17 everywhere. We have invoices due today. We've been customers for 18 months.
+
+Please advise.
+
+Jonah",Enterprise,web form
+T-10531,Cancel subscription,"Hello team,
+
+Please cancel our subscription at the end of this billing period. We won't be renewing.
+
+Thanks!
+
+Omar",Starter,web form
+T-10532,Can't log in,"Hi,
+
+I reset my password but the login page keeps saying my credentials are invalid. Not a big deal, just curious.
+
+Thanks!
+
+Diego",Free,phone transcript
+T-10533,Need a VAT invoice,"Our accountant needs a VAT-compliant invoice for the $29.50 we paid Tuesday. Our company is Northwind Dental. Not a big deal, just curious. Thanks! Diego",Free,email
+T-10534,Someone else logged into our account,"Hello team,
+
+We got a login alert from a country we've never been to, and 11 invoices were changed. Is our account hacked?
+
+Thanks!
+
+Marcus",Growth,web form
+T-10535,Need a VAT invoice,"Hi, Our accountant needs a VAT-compliant invoice for the $9.50 we paid last Friday. Our company is Blue Fern Yoga. Regards, Omar",Free,email
+T-10536,Cancel subscription,"Hi Ledgerly support, Please cancel our subscription at the end of this billing period. We won't be renewing. Please advise. Grace",Growth,phone transcript
+T-10537,Reminder emails sent to paid clients,"Good morning,
+
+Late-payment reminders went to 35 clients who already paid. Embarrassing, please fix.",Free,email
+T-10538,Reminder emails sent to paid clients,"Hello team,
+
+Late-payment reminders went to 35 clients who already paid. Embarrassing, please fix.
+
+Regards,
+
+Aiko",Growth,phone transcript
+T-10539,More languages for invoices,Our clients are in Germany and Japan. Can invoices be generated in other languages? Please advise. Sam,Starter,web form
+T-10540,Payments not going through for anyone,"None of our clients can pay invoices since last Friday. The pay button gives a blank white page.
+
+Thanks!
+
+Omar",Enterprise,email
+T-10541,Update payment method,"Our company card expires next month. Where do I add the new card before the next charge? Regards, Fatima",Enterprise,email
+T-10542,Need a VAT invoice,"To whom it may concern, Our accountant needs a VAT-compliant invoice for the $1,200 we paid the 15th. Our company is Greenleaf Farms. I already tried clearing the cache. Thanks! Aiko",Free,web form
+T-10543,PDF export broken,"Hi Ledgerly support,
+
+Exporting an invoice to PDF gives a spinner that never stops in Edge. Started the 3rd.",Starter,chat
+T-10544,Two-factor codes not arriving,"To whom it may concern, I'm not receiving the 2FA text message, so I'm locked out. Not a big deal, just curious. Thanks in advance. Tomás",Enterprise,phone transcript
+T-10545,Merge two accounts,"Hi, We accidentally created two Ledgerly accounts. Can they be merged? Appreciate the help. Tomás",Starter,email
+T-10546,Invoice from Ledgerly is wrong,"Our receipt says $149 but our plan should be $49. Which is right? Cheers, Jonah",Starter,web form
+T-10547,Charged twice this month,"I was billed $9 twice on Tuesday. Can you refund the duplicate charge?
+
+Thanks in advance.
+
+Elena",Free,email
+T-10548,Reminder emails sent to paid clients,"Late-payment reminders went to 2 clients who already paid. Embarrassing, please fix. Thanks! Jonah",Starter,web form
+T-10549,Can't upload logo,"Hi, Uploading our logo in settings shows 504. PNG, 200 KB.",Starter,phone transcript
+T-10550,App crashes on open,"Hello team,
+
+Safari crashes as soon as I open the dashboard. Reinstalled twice, same result. Not a big deal, just curious.
+
+Thanks!
+
+Priya",Free,email
+T-10551,Someone else logged into our account,"To whom it may concern, We got a login alert from a country we've never been to, and 7 invoices were changed. Is our account hacked?",Enterprise,phone transcript
+T-10552,Can't upload logo,"Hello team, Uploading our logo in settings shows 504. PNG, 200 KB. Thanks! Grace",Growth,email
+T-10553,Interview request,I'm writing an article about invoicing tools for small businesses. Could someone from your team chat? We're on the Enterprise plan if that matters.,Enterprise,chat
+T-10554,Interview request,"Hi,
+
+I'm writing an article about invoicing tools for small businesses. Could someone from your team chat? I already tried clearing the cache.
+
+Thanks!
+
+Grace",Starter,phone transcript
+T-10555,Currency symbol wrong,"Hi, Invoices in EUR show a $ sign since the update the 3rd. Cheers, Aiko",Starter,web form
+T-10556,PDF export broken,"Exporting an invoice to PDF gives 500 in the iOS app. Started yesterday.
+
+Thanks in advance.
+
+Sam",Enterprise,web form
+T-10557,App crashes on open,"Hello team,
+
+Edge crashes as soon as I open the dashboard. Reinstalled twice, same result.
+
+Thanks in advance.
+
+Lena",Enterprise,web form
+T-10558,App crashes on open,"Hi Ledgerly support,
+
+Chrome crashes as soon as I open the dashboard. Reinstalled twice, same result.
+
+Thanks!
+
+Omar",Growth,web form
+T-10559,Refund request,We downgraded last week but were still charged $49.99 for the old plan. Please refund the difference. Thanks! Elena,Growth,phone transcript
+T-10560,Please add Xero integration,"Good morning, We use Xero, not QuickBooks. Any plans to support it?",Growth,email
+T-10561,Refund request,"To whom it may concern, We downgraded last week but were still charged $149 for the old plan. Please refund the difference. This is urgent for us, our month-end close is Monday. Thanks in advance. Fatima",Enterprise,phone transcript
+T-10562,Totals don't add up,Line items add up to $29.50 but the invoice total shows $49. Tax seems to be applied twice.,Enterprise,web form
+T-10563,More languages for invoices,"Our clients are in Germany and Japan. Can invoices be generated in other languages? Cheers, Sam",Starter,chat
+T-10564,Totals don't add up,"Good morning,
+
+Line items add up to $299 but the invoice total shows $299. Tax seems to be applied twice.
+
+Please advise.
+
+Lena",Free,phone transcript
+T-10565,PDF export broken,"Hi Ledgerly support, Exporting an invoice to PDF gives 500 in Edge. Started last Friday. Thanks in advance. Jonah",Starter,email
+T-10566,Partnership inquiry,"Hi Ledgerly support, I run an accounting firm with 2 clients. Do you have a partner or reseller program? This is urgent for us, our month-end close is this morning. Please advise. Omar",Enterprise,email
+T-10567,Feature idea: partial payments,"Good morning,
+
+It would help a lot if clients could pay invoices in installments.
+
+Regards,
+
+Grace",Free,web form
+T-10568,Two-factor codes not arriving,"I'm not receiving the 2FA text message, so I'm locked out. Please advise. Diego",Starter,phone transcript
+T-10569,App crashes on open,"Good morning,
+
+Chrome crashes as soon as I open the dashboard. Reinstalled twice, same result.
+
+Please advise.
+
+Sam",Starter,chat
+T-10570,Compliment,"Hey there, Just wanted to say the new dashboard is great. Our team loves it. Not a big deal, just curious. Thanks! Marcus",Free,chat
+T-10571,Please add Xero integration,"Hello team,
+
+We use Xero, not QuickBooks. Any plans to support it? My colleague Omar saw the same thing.
+
+Appreciate the help.
+
+Omar",Starter,chat
+T-10572,Add a teammate,"Hi, How do I invite our new bookkeeper to the account with view-only access? Please advise. Priya",Growth,web form
+T-10573,Sync error with QuickBooks,"The QuickBooks sync fails with ERR_SYNC_17 for 26 invoices. Nothing has changed on our side. This is urgent for us, our month-end close is the 3rd.
+
+Please advise.
+
+Sam",Starter,phone transcript
+T-10574,Invoice from Ledgerly is wrong,"Hi Ledgerly support, Our receipt says $49 but our plan should be $99.50. Which is right? Regards, Marcus",Enterprise,web form
+T-10575,Update payment method,"Good morning,
+
+Our company card expires next month. Where do I add the new card before the next charge? Not a big deal, just curious.
+
+Regards,
+
+Jonah",Free,chat
+T-10576,Refund request,"To whom it may concern,
+
+We downgraded last week but were still charged $29 for the old plan. Please refund the difference. This is urgent for us, our month-end close is the 3rd.
+
+Thanks in advance.
+
+Diego",Enterprise,phone transcript
+T-10577,More languages for invoices,"Hey there, Our clients are in Germany and Japan. Can invoices be generated in other languages? My colleague Marcus saw the same thing. Thanks in advance. Diego",Free,web form
+T-10578,Invoice from Ledgerly is wrong,"Our receipt says $19.99 but our plan should be $49.99. Which is right?
+
+Thanks!
+
+Lena",Starter,email
+T-10579,Delete my data,"To whom it may concern,
+
+We're closing Summit Legal. Please delete our account and all of our data.
+
+Thanks in advance.
+
+Tomás",Free,chat
+T-10580,Please add Xero integration,"Hi, We use Xero, not QuickBooks. Any plans to support it?",Growth,chat
+T-10581,More languages for invoices,"Good morning, Our clients are in Germany and Japan. Can invoices be generated in other languages? Appreciate the help. Priya",Starter,chat
+T-10582,Refund request,"Hello team,
+
+We downgraded last week but were still charged $19.50 for the old plan. Please refund the difference.
+
+Thanks in advance.
+
+Marcus",Free,chat
+T-10583,Custom fields on invoices,"We need a custom field for PO numbers on every invoice. Is that on the roadmap? Not a big deal, just curious.
+
+Regards,
+
+Marcus",Free,phone transcript
+T-10584,Dark mode?,"Good morning,
+
+Any chance of a dark mode for the dashboard? Our team works late.
+
+Appreciate the help.
+
+Priya",Starter,chat
+T-10585,Currency symbol wrong,"Good morning,
+
+Invoices in EUR show a $ sign since the update the 15th.
+
+Please advise.
+
+Jonah",Growth,web form
+T-10586,Refund request,"To whom it may concern,
+
+We downgraded last week but were still charged $19.50 for the old plan. Please refund the difference.
+
+Appreciate the help.
+
+Omar",Starter,chat
+T-10587,Client portal shows wrong invoices,"One of our clients says the client portal shows another company's invoices. Screenshot attached.
+
+Thanks!
+
+Jonah",Enterprise,phone transcript
+T-10588,Merge two accounts,"We accidentally created two Ledgerly accounts. Can they be merged? I already tried clearing the cache. Cheers, Sam",Starter,chat
+T-10589,Add a teammate,"How do I invite our new bookkeeper to the account with view-only access?
+
+Regards,
+
+Omar",Growth,email
+T-10590,PDF export broken,"Hi Ledgerly support,
+
+Exporting an invoice to PDF gives 500 in the iOS app. Started the 15th.
+
+Cheers,
+
+Aiko",Free,phone transcript
+T-10591,Totals don't add up,"Hi Ledgerly support,
+
+Line items add up to $19 but the invoice total shows $1,200.99. Tax seems to be applied twice. I already tried clearing the cache.
+
+Cheers,
+
+Grace",Starter,chat
+T-10592,Custom fields on invoices,"Hey there, We need a custom field for PO numbers on every invoice. Is that on the roadmap? Thanks! Tomás",Enterprise,web form
+T-10593,Unexpected seat charges,"To whom it may concern,
+
+We were charged for 13 seats but only 13 people use Ledgerly. Can you look into it? This is urgent for us, our month-end close is Monday.
+
+Thanks!
+
+Priya",Starter,chat
+T-10594,Possible data breach,"One of our clients received an invoice email with another customer's bank details on it.
+
+Cheers,
+
+Lena",Starter,chat
+T-10595,Please add Xero integration,"We use Xero, not QuickBooks. Any plans to support it? Appreciate the help. Diego",Starter,email
+T-10596,API keys exposed,We accidentally pushed our Ledgerly API key to a public GitHub repo. What should we do right now? Appreciate the help. Priya,Starter,web form
+T-10597,Please add Xero integration,"We use Xero, not QuickBooks. Any plans to support it? Cheers, Aiko",Enterprise,chat
+T-10598,PDF export broken,"Exporting an invoice to PDF gives a spinner that never stops in the Android app. Started Monday.
+
+Cheers,
+
+Omar",Starter,web form
+T-10599,Can't log in,"To whom it may concern, I reset my password but the login page keeps saying my credentials are invalid. This is urgent for us, our month-end close is this morning. Thanks in advance. Diego",Starter,chat
+T-10600,Interview request,"Hey there, I'm writing an article about invoicing tools for small businesses. Could someone from your team chat? Appreciate the help. Sam",Starter,email
+T-10601,Entire app is down,"Good morning, Nobody on our team can load Ledgerly. We get 504 everywhere. We have invoices due today. Please advise. Aiko",Growth,phone transcript
+T-10602,Partnership inquiry,"To whom it may concern,
+
+I run an accounting firm with 19 clients. Do you have a partner or reseller program? We've been customers for 9 months.
+
+Appreciate the help.
+
+Elena",Growth,email
+T-10603,Need a VAT invoice,"To whom it may concern, Our accountant needs a VAT-compliant invoice for the $99.50 we paid the 15th. Our company is Okafor & Sons. This is urgent for us, our month-end close is last Friday.",Free,chat
+T-10604,Dark mode?,"Good morning,
+
+Any chance of a dark mode for the dashboard? Our team works late.
+
+Thanks in advance.
+
+Marcus",Enterprise,web form
+T-10605,Phishing email pretending to be you,"Hey there, Our clients are getting emails that look like Ledgerly invoices asking for card details. They're fake. Cheers, Jonah",Enterprise,email
+T-10606,Can't upload logo,"Hello team, Uploading our logo in settings shows a spinner that never stops. PNG, 200 KB. Thanks in advance. Priya",Starter,chat
+T-10607,Invoice from Ledgerly is wrong,"Hi Ledgerly support, Our receipt says $149.99 but our plan should be $299. Which is right? Thanks! Marcus",Starter,chat
+T-10608,Can't upload logo,"Hey there,
+
+Uploading our logo in settings shows 'Something went wrong'. PNG, 200 KB. We've been customers for 17 months.
+
+Cheers,
+
+Tomás",Growth,email
+T-10609,PDF export broken,"Hey there, Exporting an invoice to PDF gives 500 in Firefox. Started Monday. Thanks in advance. Jonah",Starter,phone transcript
+T-10610,Charged twice this month,"Good morning, I was billed $19 twice on this morning. Can you refund the duplicate charge?",Starter,web form
+T-10611,Client portal shows wrong invoices,"Hi Ledgerly support,
+
+One of our clients says the client portal shows another company's invoices. Screenshot attached.
+
+Thanks!
+
+Grace",Growth,phone transcript
+T-10612,Update payment method,"Our company card expires next month. Where do I add the new card before the next charge?
+
+Thanks in advance.
+
+Aiko",Free,phone transcript
+T-10613,Job application,"Good morning, Are you hiring support staff? I'd love to work at Ledgerly. Appreciate the help. Sam",Starter,chat
+T-10614,Feature idea: partial payments,"It would help a lot if clients could pay invoices in installments. Regards, Lena",Starter,phone transcript
+T-10615,Interview request,I'm writing an article about invoicing tools for small businesses. Could someone from your team chat? I already tried clearing the cache. Thanks! Omar,Growth,phone transcript
+T-10616,Client portal shows wrong invoices,"Hey there, One of our clients says the client portal shows another company's invoices. Screenshot attached. Appreciate the help. Fatima",Starter,email
+T-10617,Reminder emails sent to paid clients,"Hi, Late-payment reminders went to 3 clients who already paid. Embarrassing, please fix. Appreciate the help. Tomás",Starter,email
+T-10618,Dark mode?,"Hi Ledgerly support,
+
+Any chance of a dark mode for the dashboard? Our team works late. We've been customers for 31 months.
+
+Regards,
+
+Grace",Free,email
+T-10619,PDF export broken,"Hello team,
+
+Exporting an invoice to PDF gives ERR_SYNC_17 in Safari. Started last Friday.
+
+Thanks!
+
+Elena",Starter,web form
+T-10620,Bulk edit invoices,"Hello team,
+
+Being able to bulk edit due dates on 12 invoices at once would save us hours.",Growth,phone transcript
+T-10621,Charged twice this month,"Hi,
+
+I was billed $299 twice on Tuesday. Can you refund the duplicate charge?
+
+Regards,
+
+Omar",Growth,email
+T-10622,Card declined but money taken,"Hi Ledgerly support, The app said my card was declined, but my bank shows a pending charge of $1,200.50.",Growth,chat
+T-10623,Can't upload logo,"Hi Ledgerly support, Uploading our logo in settings shows ERR_SYNC_17. PNG, 200 KB. Please advise. Marcus",Enterprise,email
+T-10624,Change account owner,"Good morning, Aiko left the company. How do we transfer ownership of the account to me? We've been customers for 15 months. Thanks! Jonah",Growth,phone transcript
+T-10625,Cancel subscription,"Hey there, Please cancel our subscription at the end of this billing period. We won't be renewing. Regards, Fatima",Starter,chat
+T-10626,Add a teammate,"Hello team,
+
+How do I invite our new bookkeeper to the account with view-only access?
+
+Please advise.
+
+Grace",Starter,phone transcript
+T-10627,Do you offer nonprofit pricing?,"To whom it may concern,
+
+We're a registered nonprofit. Is there a discount?
+
+Thanks!
+
+Jonah",Free,chat
+T-10628,Refund request,"Good morning, We downgraded last week but were still charged $99.99 for the old plan. Please refund the difference. Regards, Marcus",Growth,phone transcript
+T-10629,Dark mode?,"Good morning,
+
+Any chance of a dark mode for the dashboard? Our team works late. We're on the Enterprise plan if that matters.
+
+Regards,
+
+Grace",Enterprise,email
+T-10630,API webhook for paid invoices,"To whom it may concern, We'd love a webhook when an invoice is paid so we can update our CRM. Appreciate the help. Aiko",Free,phone transcript
+T-10631,Compliment,"To whom it may concern,
+
+Just wanted to say the new dashboard is great. Our team loves it.
+
+Cheers,
+
+Fatima",Free,web form
+T-10632,Reminder emails sent to paid clients,"Hey there,
+
+Late-payment reminders went to 30 clients who already paid. Embarrassing, please fix.
+
+Cheers,
+
+Jonah",Starter,email
+T-10633,Refund request,"Hello team, We downgraded last week but were still charged $19 for the old plan. Please refund the difference.",Starter,chat
+T-10634,Better reports,"Good morning,
+
+Could the reports page show revenue by client over time? Right now it's only monthly totals.
+
+Thanks in advance.
+
+Marcus",Growth,chat
+T-10635,Totals don't add up,"Line items add up to $29 but the invoice total shows $9. Tax seems to be applied twice.
+
+Regards,
+
+Tomás",Growth,chat
+T-10636,Payments not going through for anyone,"None of our clients can pay invoices since Tuesday. The pay button gives a spinner that never stops.
+
+Thanks in advance.
+
+Lena",Enterprise,web form
+T-10637,Phishing email pretending to be you,"Hey there,
+
+Our clients are getting emails that look like Ledgerly invoices asking for card details. They're fake.
+
+Thanks in advance.
+
+Sam",Starter,phone transcript
+T-10638,Change account owner,"Tomás left the company. How do we transfer ownership of the account to me?
+
+Cheers,
+
+Sam",Free,chat
+T-10639,Cancel subscription,"Hi Ledgerly support, Please cancel our subscription at the end of this billing period. We won't be renewing. Please advise. Grace",Growth,chat
+T-10640,Change company email,"Hey there,
+
+We rebranded. How do I change the login email for everyone on our team?
+
+Thanks in advance.
+
+Priya",Starter,chat
+T-10641,Change account owner,"Tomás left the company. How do we transfer ownership of the account to me?
+
+Cheers,
+
+Priya",Enterprise,phone transcript
+T-10642,Please add Xero integration,"To whom it may concern, We use Xero, not QuickBooks. Any plans to support it?",Enterprise,chat
+T-10643,Reminder emails sent to paid clients,"Hello team, Late-payment reminders went to 3 clients who already paid. Embarrassing, please fix. Cheers, Grace",Enterprise,email
+T-10644,Can't log in,"Hey there, I reset my password but the login page keeps saying my credentials are invalid. Please advise. Sam",Starter,email
+T-10645,Client portal shows wrong invoices,"One of our clients says the client portal shows another company's invoices. Screenshot attached. This is urgent for us, our month-end close is the 15th.
+
+Thanks!
+
+Elena",Free,web form
+T-10646,Job application,"Hi,
+
+Are you hiring support staff? I'd love to work at Ledgerly. We're on the Starter plan if that matters.
+
+Appreciate the help.
+
+Marcus",Starter,phone transcript
+T-10647,Delete my data,"We're closing Okafor & Sons. Please delete our account and all of our data.
+
+Appreciate the help.
+
+Tomás",Enterprise,web form
+T-10648,Can't upload logo,"Hey there,
+
+Uploading our logo in settings shows 500. PNG, 200 KB.",Starter,phone transcript
+T-10649,Custom fields on invoices,"Good morning, We need a custom field for PO numbers on every invoice. Is that on the roadmap? Appreciate the help. Fatima",Starter,phone transcript
+T-10650,API webhook for paid invoices,"Hello team, We'd love a webhook when an invoice is paid so we can update our CRM. Not a big deal, just curious. Thanks in advance. Priya",Growth,chat
+T-10651,Currency symbol wrong,Invoices in EUR show a $ sign since the update last Friday.,Growth,phone transcript
+T-10652,More languages for invoices,"To whom it may concern, Our clients are in Germany and Japan. Can invoices be generated in other languages? Thanks in advance. Lena",Growth,web form
+T-10653,Cancel subscription,"Please cancel our subscription at the end of this billing period. We won't be renewing. Cheers, Fatima",Enterprise,chat
+T-10654,Currency symbol wrong,"Hi Ledgerly support,
+
+Invoices in EUR show a $ sign since the update yesterday.
+
+Cheers,
+
+Elena",Free,web form
+T-10655,Refund request,"Good morning,
+
+We downgraded last week but were still charged $1,200.50 for the old plan. Please refund the difference.
+
+Cheers,
+
+Tomás",Starter,web form
+T-10656,Reminder emails sent to paid clients,"Good morning,
+
+Late-payment reminders went to 18 clients who already paid. Embarrassing, please fix.
+
+Thanks!
+
+Sam",Starter,phone transcript
+T-10657,Client portal shows wrong invoices,"Hi, One of our clients says the client portal shows another company's invoices. Screenshot attached. This is urgent for us, our month-end close is last Friday. Thanks in advance. Jonah",Enterprise,email
+T-10658,Merge two accounts,"Hi Ledgerly support,
+
+We accidentally created two Ledgerly accounts. Can they be merged? Not a big deal, just curious.",Enterprise,phone transcript
+T-10659,App crashes on open,"Hi,
+
+Firefox crashes as soon as I open the dashboard. Reinstalled twice, same result. Not a big deal, just curious.
+
+Regards,
+
+Lena",Growth,chat
+T-10660,Bulk edit invoices,"Good morning, Being able to bulk edit due dates on 3 invoices at once would save us hours. This is urgent for us, our month-end close is the 15th. Thanks! Aiko",Enterprise,email
+T-10661,Can't log in,"Hello team,
+
+I reset my password but the login page keeps saying my credentials are invalid.
+
+Appreciate the help.
+
+Elena",Enterprise,phone transcript
+T-10662,Recurring invoices didn't send,"To whom it may concern, None of our recurring invoices went out yesterday. Clients are asking where they are. We're on the Growth plan if that matters. Thanks! Omar",Growth,phone transcript
+T-10663,Interview request,"Hi Ledgerly support, I'm writing an article about invoicing tools for small businesses. Could someone from your team chat? Thanks! Omar",Free,web form
+T-10664,Entire app is down,"Hi,
+
+Nobody on our team can load Ledgerly. We get 'Something went wrong' everywhere. We have invoices due today. I already tried clearing the cache.
+
+Thanks!
+
+Jonah",Free,phone transcript
+T-10665,Entire app is down,"Hi, Nobody on our team can load Ledgerly. We get 'Something went wrong' everywhere. We have invoices due today. Regards, Lena",Starter,email
+T-10666,Unexpected seat charges,"To whom it may concern, We were charged for 4 seats but only 4 people use Ledgerly. Can you look into it? Cheers, Lena",Growth,web form
+T-10667,Reminder emails sent to paid clients,"Late-payment reminders went to 19 clients who already paid. Embarrassing, please fix. We're on the Free plan if that matters.
+
+Please advise.
+
+Grace",Free,phone transcript
+T-10668,Do you offer nonprofit pricing?,"Hi,
+
+We're a registered nonprofit. Is there a discount?
+
+Cheers,
+
+Omar",Enterprise,phone transcript
+T-10669,Cancel subscription,"Hey there,
+
+Please cancel our subscription at the end of this billing period. We won't be renewing.",Growth,email
+T-10670,Card declined but money taken,"The app said my card was declined, but my bank shows a pending charge of $19.50. Thanks! Sam",Enterprise,web form
+T-10671,Recurring invoices didn't send,"Good morning, None of our recurring invoices went out Tuesday. Clients are asking where they are. Appreciate the help. Lena",Starter,chat
+T-10672,Sync error with QuickBooks,"The QuickBooks sync fails with 504 for 29 invoices. Nothing has changed on our side. Regards, Elena",Starter,phone transcript
+T-10673,Currency symbol wrong,"Hi,
+
+Invoices in EUR show a $ sign since the update this morning.
+
+Thanks!
+
+Lena",Free,chat
+T-10674,Dark mode?,"Hi Ledgerly support,
+
+Any chance of a dark mode for the dashboard? Our team works late.
+
+Thanks in advance.
+
+Lena",Starter,web form
+T-10675,Update payment method,"Hey there, Our company card expires next month. Where do I add the new card before the next charge? Thanks in advance. Sam",Free,web form
+T-10676,Someone else logged into our account,"We got a login alert from a country we've never been to, and 18 invoices were changed. Is our account hacked?
+
+Thanks in advance.
+
+Marcus",Free,email
+T-10677,Better reports,"Hello team,
+
+Could the reports page show revenue by client over time? Right now it's only monthly totals.",Starter,email
+T-10678,Custom fields on invoices,"To whom it may concern, We need a custom field for PO numbers on every invoice. Is that on the roadmap? We've been customers for 29 months. Cheers, Tomás",Free,email
+T-10679,Currency symbol wrong,"Hey there,
+
+Invoices in EUR show a $ sign since the update Monday.
+
+Please advise.
+
+Jonah",Growth,chat
+T-10680,Better reports,"Hey there,
+
+Could the reports page show revenue by client over time? Right now it's only monthly totals.
+
+Regards,
+
+Fatima",Enterprise,chat
+T-10681,Can't log in,I reset my password but the login page keeps saying my credentials are invalid. Thanks! Sam,Enterprise,email
+T-10682,Feature idea: partial payments,It would help a lot if clients could pay invoices in installments.,Free,email
+T-10683,Compliment,Just wanted to say the new dashboard is great. Our team loves it. Please advise. Lena,Free,email
+T-10684,Need a VAT invoice,"Hey there,
+
+Our accountant needs a VAT-compliant invoice for the $149.99 we paid last Friday. Our company is Pixel Forge.
+
+Cheers,
+
+Sam",Starter,phone transcript
+T-10685,Refund request,"Good morning,
+
+We downgraded last week but were still charged $19 for the old plan. Please refund the difference.",Free,web form
+T-10686,Update payment method,"Good morning, Our company card expires next month. Where do I add the new card before the next charge?",Starter,chat
+T-10687,Interview request,"Good morning, I'm writing an article about invoicing tools for small businesses. Could someone from your team chat? Cheers, Jonah",Starter,phone transcript
+T-10688,Dark mode?,"Good morning, Any chance of a dark mode for the dashboard? Our team works late. Thanks! Grace",Free,chat
+T-10689,Dark mode?,"To whom it may concern,
+
+Any chance of a dark mode for the dashboard? Our team works late.",Starter,web form
+T-10690,Reminder emails sent to paid clients,"Hey there,
+
+Late-payment reminders went to 38 clients who already paid. Embarrassing, please fix.
+
+Please advise.
+
+Fatima",Enterprise,phone transcript
+T-10691,Two-factor codes not arriving,"To whom it may concern, I'm not receiving the 2FA text message, so I'm locked out. This is urgent for us, our month-end close is this morning. Cheers, Grace",Free,email
+T-10692,Switch to annual billing,"Hi Ledgerly support,
+
+How do we move from monthly to annual billing, and do we get the discount pro-rated?
+
+Regards,
+
+Omar",Starter,web form
+T-10693,Need a VAT invoice,"To whom it may concern,
+
+Our accountant needs a VAT-compliant invoice for the $99 we paid the 15th. Our company is Summit Legal.
+
+Please advise.
+
+Jonah",Free,phone transcript
+T-10694,Recurring invoices didn't send,"None of our recurring invoices went out Tuesday. Clients are asking where they are. We've been customers for 24 months. Cheers, Priya",Free,email
+T-10695,Update payment method,"Hey there,
+
+Our company card expires next month. Where do I add the new card before the next charge?
+
+Thanks!
+
+Marcus",Starter,phone transcript
+T-10696,Someone else logged into our account,"Hi, We got a login alert from a country we've never been to, and 22 invoices were changed. Is our account hacked? We're on the Growth plan if that matters. Please advise. Jonah",Growth,chat
+T-10697,Partnership inquiry,I run an accounting firm with 8 clients. Do you have a partner or reseller program? Thanks in advance. Marcus,Free,email
+T-10698,Currency symbol wrong,Invoices in EUR show a $ sign since the update yesterday.,Enterprise,phone transcript
+T-10699,Change account owner,"Grace left the company. How do we transfer ownership of the account to me? We've been customers for 7 months.
+
+Cheers,
+
+Diego",Enterprise,web form
+T-10700,PDF export broken,"To whom it may concern,
+
+Exporting an invoice to PDF gives ERR_SYNC_17 in Firefox. Started the 15th. We're on the Enterprise plan if that matters.
+
+Regards,
+
+Diego",Enterprise,chat
+T-10701,Charged twice this month,"Hello team, I was billed $19.50 twice on the 3rd. Can you refund the duplicate charge? Thanks! Grace",Growth,chat
+T-10702,App crashes on open,"Good morning, Edge crashes as soon as I open the dashboard. Reinstalled twice, same result. Appreciate the help. Fatima",Growth,web form
+T-10703,Update payment method,"Hi Ledgerly support, Our company card expires next month. Where do I add the new card before the next charge?",Enterprise,chat
+T-10704,App crashes on open,"To whom it may concern,
+
+the Android app crashes as soon as I open the dashboard. Reinstalled twice, same result.
+
+Please advise.
+
+Diego",Starter,web form
+T-10705,Question about data residency,"Hi,
+
+Where is our data stored? We need it to stay in the EU for compliance. My colleague Diego saw the same thing.",Free,phone transcript
+T-10706,Possible data breach,"Hi Ledgerly support,
+
+One of our clients received an invoice email with another customer's bank details on it.
+
+Thanks!
+
+Grace",Free,phone transcript
+T-10707,Sync error with QuickBooks,"The QuickBooks sync fails with 'Something went wrong' for 32 invoices. Nothing has changed on our side. We've been customers for 37 months.
+
+Regards,
+
+Lena",Free,chat
+T-10708,Change account owner,"Marcus left the company. How do we transfer ownership of the account to me? Not a big deal, just curious. Thanks! Diego",Growth,web form
+T-10709,Need a VAT invoice,"Hey there,
+
+Our accountant needs a VAT-compliant invoice for the $99 we paid the 15th. Our company is Greenleaf Farms.
+
+Regards,
+
+Omar",Starter,web form
+T-10710,Refund request,"Hi Ledgerly support, We downgraded last week but were still charged $9 for the old plan. Please refund the difference. Cheers, Fatima",Starter,web form
+T-10711,Partnership inquiry,"Hello team,
+
+I run an accounting firm with 15 clients. Do you have a partner or reseller program?
+
+Thanks in advance.
+
+Tomás",Growth,phone transcript
+T-10712,Two-factor codes not arriving,"Hi,
+
+I'm not receiving the 2FA text message, so I'm locked out. This is urgent for us, our month-end close is last Friday.
+
+Regards,
+
+Fatima",Free,email
+T-10713,Dark mode?,"Hi, Any chance of a dark mode for the dashboard? Our team works late. Appreciate the help. Diego",Enterprise,phone transcript
+T-10714,Payments not going through for anyone,"Hi Ledgerly support, None of our clients can pay invoices since Monday. The pay button gives a blank white page. Thanks! Grace",Growth,phone transcript
+T-10715,Phishing email pretending to be you,"To whom it may concern,
+
+Our clients are getting emails that look like Ledgerly invoices asking for card details. They're fake. I already tried clearing the cache.
+
+Cheers,
+
+Fatima",Free,chat
+T-10716,Refund request,"Hi Ledgerly support, We downgraded last week but were still charged $29 for the old plan. Please refund the difference. Cheers, Diego",Free,phone transcript
+T-10717,Refund request,We downgraded last week but were still charged $9.50 for the old plan. Please refund the difference. Thanks! Elena,Starter,email
+T-10718,Charged twice this month,"Hello team,
+
+I was billed $1,200 twice on the 15th. Can you refund the duplicate charge?
+
+Thanks in advance.
+
+Elena",Growth,email
+T-10719,Client portal shows wrong invoices,"Hello team, One of our clients says the client portal shows another company's invoices. Screenshot attached. We've been customers for 6 months. Cheers, Aiko",Growth,web form
+T-10720,Recurring invoices didn't send,"To whom it may concern, None of our recurring invoices went out yesterday. Clients are asking where they are. My colleague Elena saw the same thing. Regards, Omar",Free,chat
+T-10721,Better reports,"Good morning, Could the reports page show revenue by client over time? Right now it's only monthly totals. Regards, Fatima",Free,phone transcript
+T-10722,Unexpected seat charges,"Hi Ledgerly support,
+
+We were charged for 10 seats but only 10 people use Ledgerly. Can you look into it?
+
+Please advise.
+
+Jonah",Starter,chat
+T-10723,Client portal shows wrong invoices,"One of our clients says the client portal shows another company's invoices. Screenshot attached. Not a big deal, just curious. Please advise. Diego",Starter,email
+T-10724,Job application,"Are you hiring support staff? I'd love to work at Ledgerly. My colleague Diego saw the same thing.
+
+Thanks!
+
+Priya",Starter,email
+T-10725,Custom fields on invoices,"Good morning, We need a custom field for PO numbers on every invoice. Is that on the roadmap? We've been customers for 2 months. Appreciate the help. Grace",Enterprise,email
+T-10726,Add a teammate,"Good morning, How do I invite our new bookkeeper to the account with view-only access? Cheers, Aiko",Enterprise,phone transcript
+T-10727,Do you offer nonprofit pricing?,We're a registered nonprofit. Is there a discount? Thanks in advance. Tomás,Growth,chat
+T-10728,Unexpected seat charges,"Hi Ledgerly support, We were charged for 17 seats but only 17 people use Ledgerly. Can you look into it? We've been customers for 6 months. Thanks! Elena",Free,chat
+T-10729,API webhook for paid invoices,"Good morning,
+
+We'd love a webhook when an invoice is paid so we can update our CRM. We've been customers for 12 months.
+
+Appreciate the help.
+
+Sam",Starter,phone transcript
+T-10730,Need a VAT invoice,"To whom it may concern,
+
+Our accountant needs a VAT-compliant invoice for the $49 we paid this morning. Our company is Northwind Dental. We're on the Growth plan if that matters.
+
+Thanks in advance.
+
+Elena",Growth,web form
+T-10731,Bulk edit invoices,"Being able to bulk edit due dates on 16 invoices at once would save us hours. I already tried clearing the cache.
+
+Appreciate the help.
+
+Elena",Free,phone transcript
+T-10732,Delete my data,"Hey there,
+
+We're closing Blue Fern Yoga. Please delete our account and all of our data.
+
+Thanks!
+
+Diego",Free,email
+T-10733,Reminder emails sent to paid clients,"Hi, Late-payment reminders went to 14 clients who already paid. Embarrassing, please fix. Regards, Omar",Growth,web form
+T-10734,Charged twice this month,I was billed $29.50 twice on the 15th. Can you refund the duplicate charge?,Free,phone transcript
+T-10735,App crashes on open,"Hi Ledgerly support, Edge crashes as soon as I open the dashboard. Reinstalled twice, same result. Please advise. Lena",Free,email
+T-10736,Invoice from Ledgerly is wrong,"Our receipt says $49 but our plan should be $49.50. Which is right? My colleague Elena saw the same thing. Cheers, Tomás",Enterprise,phone transcript
+T-10737,Please add Xero integration,"We use Xero, not QuickBooks. Any plans to support it?",Free,chat
+T-10738,Merge two accounts,"To whom it may concern, We accidentally created two Ledgerly accounts. Can they be merged? Regards, Jonah",Free,web form
+T-10739,Someone else logged into our account,"To whom it may concern,
+
+We got a login alert from a country we've never been to, and 14 invoices were changed. Is our account hacked?
+
+Thanks!
+
+Sam",Free,web form
+T-10740,PDF export broken,"Hello team, Exporting an invoice to PDF gives ERR_SYNC_17 in Firefox. Started yesterday. Cheers, Fatima",Free,web form
+T-10741,Better reports,"Hey there,
+
+Could the reports page show revenue by client over time? Right now it's only monthly totals. This is urgent for us, our month-end close is Monday.
+
+Regards,
+
+Diego",Starter,phone transcript
+T-10742,Can't log in,"Hi Ledgerly support, I reset my password but the login page keeps saying my credentials are invalid. Please advise. Jonah",Enterprise,phone transcript
+T-10743,Payments not going through for anyone,"Hello team, None of our clients can pay invoices since Tuesday. The pay button gives a blank white page. Cheers, Aiko",Growth,web form
+T-10744,Dark mode?,"To whom it may concern,
+
+Any chance of a dark mode for the dashboard? Our team works late.
+
+Appreciate the help.
+
+Grace",Free,chat
+T-10745,Entire app is down,"Hi Ledgerly support,
+
+Nobody on our team can load Ledgerly. We get a blank white page everywhere. We have invoices due today. My colleague Aiko saw the same thing.
+
+Regards,
+
+Elena",Starter,web form
+T-10746,Add a teammate,How do I invite our new bookkeeper to the account with view-only access? We're on the Growth plan if that matters. Thanks in advance. Aiko,Growth,web form
+T-10747,Sync error with QuickBooks,"To whom it may concern,
+
+The QuickBooks sync fails with a blank white page for 23 invoices. Nothing has changed on our side.
+
+Please advise.
+
+Grace",Free,email
+T-10748,Entire app is down,Nobody on our team can load Ledgerly. We get a blank white page everywhere. We have invoices due today. Appreciate the help. Jonah,Starter,web form
+T-10749,Client portal shows wrong invoices,"To whom it may concern,
+
+One of our clients says the client portal shows another company's invoices. Screenshot attached.",Starter,email
+T-10750,Merge two accounts,"Hey there,
+
+We accidentally created two Ledgerly accounts. Can they be merged? We're on the Growth plan if that matters.
+
+Please advise.
+
+Lena",Growth,chat
+T-10751,Currency symbol wrong,"Hi Ledgerly support,
+
+Invoices in EUR show a $ sign since the update the 15th. I already tried clearing the cache.
+
+Cheers,
+
+Omar",Starter,email
+T-10752,Someone else logged into our account,"To whom it may concern, We got a login alert from a country we've never been to, and 36 invoices were changed. Is our account hacked?",Growth,email
+T-10753,Dark mode?,"Hi Ledgerly support,
+
+Any chance of a dark mode for the dashboard? Our team works late. My colleague Omar saw the same thing.
+
+Regards,
+
+Jonah",Starter,email
+T-10754,Payments not going through for anyone,"None of our clients can pay invoices since Monday. The pay button gives 504.
+
+Thanks!
+
+Priya",Enterprise,chat
+T-10755,Change account owner,"Hi, Lena left the company. How do we transfer ownership of the account to me? Thanks! Sam",Enterprise,web form
+T-10756,Custom fields on invoices,"To whom it may concern, We need a custom field for PO numbers on every invoice. Is that on the roadmap? Thanks in advance. Aiko",Free,phone transcript
+T-10757,Bulk edit invoices,"Good morning,
+
+Being able to bulk edit due dates on 40 invoices at once would save us hours.
+
+Please advise.
+
+Fatima",Growth,chat
+T-10758,Cancel subscription,"Hello team, Please cancel our subscription at the end of this billing period. We won't be renewing. Cheers, Sam",Free,email
+T-10759,App crashes on open,"Good morning, the iOS app crashes as soon as I open the dashboard. Reinstalled twice, same result. Regards, Priya",Free,email
+T-10760,Recurring invoices didn't send,"Hi, None of our recurring invoices went out the 3rd. Clients are asking where they are. Appreciate the help. Aiko",Free,chat
+T-10761,More languages for invoices,"Hi,
+
+Our clients are in Germany and Japan. Can invoices be generated in other languages?
+
+Thanks in advance.
+
+Diego",Free,phone transcript
+T-10762,Cancel subscription,"Please cancel our subscription at the end of this billing period. We won't be renewing.
+
+Thanks in advance.
+
+Omar",Free,email
+T-10763,Reminder emails sent to paid clients,"Late-payment reminders went to 24 clients who already paid. Embarrassing, please fix. Not a big deal, just curious. Please advise. Omar",Growth,web form
+T-10764,App crashes on open,"Safari crashes as soon as I open the dashboard. Reinstalled twice, same result.
+
+Thanks in advance.
+
+Jonah",Growth,chat
+T-10765,Recurring invoices didn't send,"Hi Ledgerly support,
+
+None of our recurring invoices went out the 3rd. Clients are asking where they are.
+
+Regards,
+
+Fatima",Enterprise,email
+T-10766,PDF export broken,"Hi Ledgerly support,
+
+Exporting an invoice to PDF gives 500 in the iOS app. Started this morning.
+
+Regards,
+
+Omar",Starter,email
+T-10767,Update payment method,"Hi,
+
+Our company card expires next month. Where do I add the new card before the next charge?
+
+Cheers,
+
+Grace",Enterprise,chat
+T-10768,Interview request,"I'm writing an article about invoicing tools for small businesses. Could someone from your team chat? Not a big deal, just curious. Appreciate the help. Jonah",Starter,email
+T-10769,PDF export broken,"Hi,
+
+Exporting an invoice to PDF gives 500 in Safari. Started this morning.
+
+Please advise.
+
+Marcus",Enterprise,email
+T-10770,More languages for invoices,"Hello team,
+
+Our clients are in Germany and Japan. Can invoices be generated in other languages?
+
+Regards,
+
+Fatima",Growth,phone transcript
+T-10771,Totals don't add up,"To whom it may concern,
+
+Line items add up to $149.50 but the invoice total shows $29.99. Tax seems to be applied twice.
+
+Cheers,
+
+Elena",Growth,email
+T-10772,Can't upload logo,"Uploading our logo in settings shows 500. PNG, 200 KB. I already tried clearing the cache.
+
+Cheers,
+
+Diego",Starter,phone transcript
+T-10773,PDF export broken,"To whom it may concern,
+
+Exporting an invoice to PDF gives ERR_SYNC_17 in Edge. Started Monday.
+
+Please advise.
+
+Fatima",Free,phone transcript
+T-10774,Please add Xero integration,"Hello team,
+
+We use Xero, not QuickBooks. Any plans to support it?",Enterprise,web form
+T-10775,Delete my data,"Hi,
+
+We're closing Greenleaf Farms. Please delete our account and all of our data. This is urgent for us, our month-end close is Tuesday.
+
+Appreciate the help.
+
+Jonah",Free,web form
+T-10776,API webhook for paid invoices,"Hi Ledgerly support,
+
+We'd love a webhook when an invoice is paid so we can update our CRM.
+
+Cheers,
+
+Lena",Free,phone transcript
+T-10777,Question about data residency,"Good morning,
+
+Where is our data stored? We need it to stay in the EU for compliance.",Starter,chat
+T-10778,API keys exposed,"Hello team, We accidentally pushed our Ledgerly API key to a public GitHub repo. What should we do right now?",Enterprise,phone transcript
+T-10779,Switch to annual billing,"To whom it may concern, How do we move from monthly to annual billing, and do we get the discount pro-rated? Cheers, Omar",Growth,phone transcript
+T-10780,More languages for invoices,"Our clients are in Germany and Japan. Can invoices be generated in other languages? Not a big deal, just curious. Appreciate the help. Elena",Free,web form
+T-10781,Change account owner,Lena left the company. How do we transfer ownership of the account to me?,Starter,web form
+T-10782,Sync error with QuickBooks,"To whom it may concern,
+
+The QuickBooks sync fails with 504 for 27 invoices. Nothing has changed on our side.
+
+Regards,
+
+Tomás",Starter,phone transcript
+T-10783,Merge two accounts,"We accidentally created two Ledgerly accounts. Can they be merged?
+
+Thanks in advance.
+
+Priya",Growth,phone transcript
+T-10784,Client portal shows wrong invoices,"Good morning, One of our clients says the client portal shows another company's invoices. Screenshot attached. Regards, Jonah",Free,web form
+T-10785,Sync error with QuickBooks,The QuickBooks sync fails with 504 for 18 invoices. Nothing has changed on our side. Thanks in advance. Sam,Free,email
+T-10786,Currency symbol wrong,"Hi, Invoices in EUR show a $ sign since the update this morning. Cheers, Aiko",Starter,email
+T-10787,Delete my data,"We're closing Kestrel Labs. Please delete our account and all of our data.
+
+Cheers,
+
+Elena",Enterprise,chat
+T-10788,API keys exposed,"Hi,
+
+We accidentally pushed our Ledgerly API key to a public GitHub repo. What should we do right now? My colleague Diego saw the same thing.
+
+Cheers,
+
+Lena",Starter,chat
+T-10789,Please add Xero integration,"Good morning, We use Xero, not QuickBooks. Any plans to support it? We've been customers for 12 months. Please advise. Diego",Enterprise,web form
+T-10790,Phishing email pretending to be you,"To whom it may concern, Our clients are getting emails that look like Ledgerly invoices asking for card details. They're fake. We've been customers for 37 months.",Growth,phone transcript
+T-10791,Reminder emails sent to paid clients,"Hello team,
+
+Late-payment reminders went to 8 clients who already paid. Embarrassing, please fix. I already tried clearing the cache.
+
+Thanks in advance.
+
+Grace",Starter,web form
+T-10792,Recurring invoices didn't send,None of our recurring invoices went out the 3rd. Clients are asking where they are. We're on the Growth plan if that matters.,Growth,phone transcript
+T-10793,Cancel subscription,"Hi, Please cancel our subscription at the end of this billing period. We won't be renewing. I already tried clearing the cache. Please advise. Lena",Growth,phone transcript
+T-10794,Recurring invoices didn't send,"Good morning, None of our recurring invoices went out yesterday. Clients are asking where they are. Regards, Tomás",Growth,email
+T-10795,Need a VAT invoice,"Hi,
+
+Our accountant needs a VAT-compliant invoice for the $299 we paid the 15th. Our company is Northwind Dental.
+
+Thanks!
+
+Sam",Starter,phone transcript
+T-10796,Change account owner,"Good morning, Fatima left the company. How do we transfer ownership of the account to me? Regards, Sam",Enterprise,email
+T-10797,Cancel subscription,"Hi Ledgerly support, Please cancel our subscription at the end of this billing period. We won't be renewing. Cheers, Marcus",Starter,phone transcript
+T-10798,Card declined but money taken,"The app said my card was declined, but my bank shows a pending charge of $49.
+
+Appreciate the help.
+
+Grace",Growth,chat
+T-10799,Sync error with QuickBooks,"Hi Ledgerly support, The QuickBooks sync fails with 500 for 36 invoices. Nothing has changed on our side. Thanks in advance. Lena",Free,chat
+T-10800,Possible data breach,"To whom it may concern, One of our clients received an invoice email with another customer's bank details on it. Please advise. Grace",Free,web form
+T-10801,Card declined but money taken,"The app said my card was declined, but my bank shows a pending charge of $99.99. We've been customers for 10 months.
+
+Regards,
+
+Lena",Free,phone transcript
+T-10802,Better reports,"Hi Ledgerly support,
+
+Could the reports page show revenue by client over time? Right now it's only monthly totals. My colleague Tomás saw the same thing.
+
+Please advise.
+
+Grace",Starter,email
+T-10803,Add a teammate,How do I invite our new bookkeeper to the account with view-only access?,Enterprise,web form
+T-10804,Better reports,"To whom it may concern,
+
+Could the reports page show revenue by client over time? Right now it's only monthly totals. I already tried clearing the cache.
+
+Appreciate the help.
+
+Fatima",Free,web form
+T-10805,Dark mode?,"Hey there,
+
+Any chance of a dark mode for the dashboard? Our team works late.
+
+Appreciate the help.
+
+Aiko",Enterprise,phone transcript
+T-10806,Feature idea: partial payments,"Hello team,
+
+It would help a lot if clients could pay invoices in installments.
+
+Cheers,
+
+Jonah",Starter,phone transcript
+T-10807,Recurring invoices didn't send,"None of our recurring invoices went out Monday. Clients are asking where they are.
+
+Appreciate the help.
+
+Aiko",Free,web form
+T-10808,Charged twice this month,"Good morning,
+
+I was billed $19.99 twice on last Friday. Can you refund the duplicate charge?
+
+Appreciate the help.
+
+Priya",Enterprise,email
+T-10809,Do you offer nonprofit pricing?,"Hello team,
+
+We're a registered nonprofit. Is there a discount?
+
+Regards,
+
+Sam",Free,email
+T-10810,Recurring invoices didn't send,"Good morning, None of our recurring invoices went out Tuesday. Clients are asking where they are. Please advise. Fatima",Starter,web form
+T-10811,Switch to annual billing,"Good morning,
+
+How do we move from monthly to annual billing, and do we get the discount pro-rated?
+
+Cheers,
+
+Tomás",Starter,web form
+T-10812,PDF export broken,"Hello team,
+
+Exporting an invoice to PDF gives 504 in Safari. Started the 3rd. We're on the Starter plan if that matters.
+
+Appreciate the help.
+
+Tomás",Starter,email
+T-10813,Update payment method,"Hi Ledgerly support,
+
+Our company card expires next month. Where do I add the new card before the next charge?
+
+Regards,
+
+Diego",Enterprise,email
+T-10814,More languages for invoices,"To whom it may concern,
+
+Our clients are in Germany and Japan. Can invoices be generated in other languages?",Starter,web form
+T-10815,Custom fields on invoices,"Hi Ledgerly support, We need a custom field for PO numbers on every invoice. Is that on the roadmap? My colleague Lena saw the same thing. Appreciate the help. Diego",Starter,web form
+T-10816,API keys exposed,"Hello team, We accidentally pushed our Ledgerly API key to a public GitHub repo. What should we do right now?",Free,chat
+T-10817,Do you offer nonprofit pricing?,"Hello team, We're a registered nonprofit. Is there a discount? Thanks in advance. Fatima",Growth,phone transcript
+T-10818,Unexpected seat charges,"Hey there, We were charged for 32 seats but only 32 people use Ledgerly. Can you look into it?",Starter,chat
+T-10819,Add a teammate,"How do I invite our new bookkeeper to the account with view-only access? We've been customers for 3 months.
+
+Thanks!
+
+Grace",Growth,phone transcript
+T-10820,Card declined but money taken,"Hi,
+
+The app said my card was declined, but my bank shows a pending charge of $99.
+
+Thanks in advance.
+
+Elena",Starter,email
+T-10821,Add a teammate,"To whom it may concern, How do I invite our new bookkeeper to the account with view-only access? We've been customers for 6 months. Thanks! Elena",Growth,chat
+T-10822,App crashes on open,"Safari crashes as soon as I open the dashboard. Reinstalled twice, same result.",Starter,email
+T-10823,Change company email,"Hello team,
+
+We rebranded. How do I change the login email for everyone on our team?
+
+Please advise.
+
+Diego",Starter,chat
+T-10824,Two-factor codes not arriving,"Hi, I'm not receiving the 2FA text message, so I'm locked out. We're on the Free plan if that matters.",Free,web form
+T-10825,Unexpected seat charges,"Good morning,
+
+We were charged for 30 seats but only 30 people use Ledgerly. Can you look into it?
+
+Cheers,
+
+Omar",Growth,email
+T-10826,Can't upload logo,"Uploading our logo in settings shows a blank white page. PNG, 200 KB. Please advise. Marcus",Enterprise,phone transcript
+T-10827,Card declined but money taken,"Good morning, The app said my card was declined, but my bank shows a pending charge of $99. Thanks in advance. Marcus",Free,chat
+T-10828,Change account owner,Jonah left the company. How do we transfer ownership of the account to me?,Growth,phone transcript
+T-10829,Recurring invoices didn't send,"Hi,
+
+None of our recurring invoices went out the 15th. Clients are asking where they are. Not a big deal, just curious.
+
+Cheers,
+
+Jonah",Free,phone transcript
+T-10830,Feature idea: partial payments,"It would help a lot if clients could pay invoices in installments. Cheers, Sam",Enterprise,email
+T-10831,Interview request,"I'm writing an article about invoicing tools for small businesses. Could someone from your team chat?
+
+Please advise.
+
+Diego",Free,web form
+T-10832,Switch to annual billing,"Hi Ledgerly support, How do we move from monthly to annual billing, and do we get the discount pro-rated? My colleague Sam saw the same thing. Thanks in advance. Marcus",Enterprise,web form
+T-10833,Custom fields on invoices,"Hey there,
+
+We need a custom field for PO numbers on every invoice. Is that on the roadmap?
+
+Thanks in advance.
+
+Jonah",Growth,email
+T-10834,Update payment method,"Hi Ledgerly support,
+
+Our company card expires next month. Where do I add the new card before the next charge? We're on the Growth plan if that matters.
+
+Please advise.
+
+Diego",Growth,chat
+T-10835,Merge two accounts,"Hi Ledgerly support,
+
+We accidentally created two Ledgerly accounts. Can they be merged?
+
+Appreciate the help.
+
+Jonah",Growth,chat
+T-10836,Add a teammate,"Hello team, How do I invite our new bookkeeper to the account with view-only access? Please advise. Aiko",Free,chat
+T-10837,Can't log in,"Hey there,
+
+I reset my password but the login page keeps saying my credentials are invalid.
+
+Thanks in advance.
+
+Grace",Growth,chat
+T-10838,Charged twice this month,"Hey there,
+
+I was billed $99.50 twice on the 3rd. Can you refund the duplicate charge?
+
+Regards,
+
+Grace",Free,web form
+T-10839,Can't log in,"I reset my password but the login page keeps saying my credentials are invalid.
+
+Thanks in advance.
+
+Sam",Starter,chat
+T-10840,Refund request,"Hi Ledgerly support, We downgraded last week but were still charged $49 for the old plan. Please refund the difference. Not a big deal, just curious. Appreciate the help. Aiko",Starter,chat
+T-10841,Can't log in,"Hello team,
+
+I reset my password but the login page keeps saying my credentials are invalid. Not a big deal, just curious.
+
+Cheers,
+
+Sam",Growth,chat
+T-10842,Currency symbol wrong,"Hi Ledgerly support,
+
+Invoices in EUR show a $ sign since the update this morning.
+
+Please advise.
+
+Aiko",Enterprise,phone transcript
+T-10843,Card declined but money taken,"To whom it may concern, The app said my card was declined, but my bank shows a pending charge of $1,200.99. My colleague Tomás saw the same thing. Cheers, Tomás",Enterprise,phone transcript
+T-10844,Merge two accounts,"Hi,
+
+We accidentally created two Ledgerly accounts. Can they be merged?
+
+Please advise.
+
+Diego",Enterprise,web form
+T-10845,Custom fields on invoices,"Hi Ledgerly support, We need a custom field for PO numbers on every invoice. Is that on the roadmap? Appreciate the help. Fatima",Free,email
+T-10846,Recurring invoices didn't send,"Hi,
+
+None of our recurring invoices went out yesterday. Clients are asking where they are. I already tried clearing the cache.
+
+Please advise.
+
+Lena",Growth,web form
+T-10847,Dark mode?,"To whom it may concern,
+
+Any chance of a dark mode for the dashboard? Our team works late.
+
+Thanks!
+
+Elena",Growth,chat
+T-10848,Custom fields on invoices,"Hi Ledgerly support, We need a custom field for PO numbers on every invoice. Is that on the roadmap?",Growth,web form
+T-10849,Update payment method,Our company card expires next month. Where do I add the new card before the next charge?,Starter,chat
+T-10850,Payments not going through for anyone,"Good morning,
+
+None of our clients can pay invoices since Tuesday. The pay button gives a blank white page. Not a big deal, just curious.
+
+Thanks!
+
+Elena",Growth,web form
+T-10851,Client portal shows wrong invoices,"Good morning,
+
+One of our clients says the client portal shows another company's invoices. Screenshot attached. My colleague Marcus saw the same thing.",Growth,web form
